@@ -24,7 +24,7 @@ export default function MouseTracker() {
       pointerEvents: 'none',
       right: '100' ,
       color: 'pink',
-      fontFamily: 'cursive' // Set the font to Arial
+      fontFamily: 'cursive'
     }}>
 
 <Typewriter
