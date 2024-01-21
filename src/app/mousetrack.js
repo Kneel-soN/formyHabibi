@@ -29,7 +29,7 @@ export default function MouseTracker() {
 
 <Typewriter
   options={{
-    strings: ['I love you Stacey','My Love', 'My Habibi','My Sugarplum', 'My Honeybunch','My Pumpkin', 'My Sweetie-pie'],
+    strings: ['I love you Stacey','My Love', 'My Habibi','My Sugarplum', 'My Honeybunch','My Pumpkin', 'My Sweetie-pie', 'My Medtech'],
     autoStart: true,
     loop: true,
     delay: 10,
